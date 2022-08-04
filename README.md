@@ -1,4 +1,4 @@
 
 # BinanceAuto
 
-Script en python para vender todos los tokens disponibles en la cartera
+Script en python para vender todos los tokens disponibles en la cartera de Binance
